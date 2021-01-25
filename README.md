@@ -1,5 +1,7 @@
 <h3 align="center">Hi there, I'm Marcelo Viana Dias 👋</h3>
 
+<hr>
+
 -  I live in :brazil: 
 -  I'm a systems assistant :computer:
 -  I’m currently learning java and spring boot :leaves:
