@@ -2,7 +2,7 @@
 
 -  I live in :brazil: 
 -  I'm a systems assistant :computer:
--  I’m currently learning java and spring boott :leaves:
+-  I’m currently learning java and spring boot :leaves:
 -  I'm a computer science student :student:
 
 <hr>
