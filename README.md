@@ -35,6 +35,10 @@
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacatovisk&theme=dark)](https://github.com/pacatovisk/github-readme-stats)
    
 </div>
+
+<hr>
+
+![](https://komarev.com/ghpvc/?username=pacatovisk&color=yellow&style=flat)
    
   
 <!--
