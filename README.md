@@ -28,13 +28,9 @@
   <img src="https://img.shields.io/badge/Git flow%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 </p>
 
-<div align="center">
-  
-   ![Marcelo Viana's github stats](https://github-readme-stats.vercel.app/api?username=pacatovisk&show_icons=true&theme=dark)
-  
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacatovisk&theme=dark)](https://github.com/pacatovisk/github-readme-stats)
-   
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pacatovisk&count_private=true&show_icons=true&theme=dark" alt="Marcelo Viana Dias github stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacatovisk&layout=compact&exclude_repo=exposure-fusion&theme=dark" alt="Top Langs" width="334"/> </p>
 
 <hr>
 
