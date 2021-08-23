@@ -32,6 +32,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pacatovisk&count_private=true&show_icons=true&theme=dark" alt="Marcelo Viana Dias github stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacatovisk&layout=compact&exclude_repo=exposure-fusion&theme=dark" alt="Top Langs" width="334"/> </p>
 
+<hr>
+
 ![Snake animation](https://github.com/pacatovisk/pacatovisk/blob/output/github-contribution-grid-snake.svg)
 
 <hr>
