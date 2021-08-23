@@ -34,6 +34,9 @@
 
 <hr>
 
+![Snake animation](https://github.com/pacatovisk/pacatovisk/blob/output/github-contribution-grid-snake.svg)
+
+
 ![](https://komarev.com/ghpvc/?username=pacatovisk&color=yellow&style=flat)
    
   
